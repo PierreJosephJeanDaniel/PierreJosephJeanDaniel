@@ -20,6 +20,7 @@ My name is *Pierre*, and here is a few things about me:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![.Net](https://img.shields.io/badge/-.Net-000%3F%26logo%3Ddotnet?style=flat&logo=dotnet&color=black)
 
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -27,6 +28,8 @@ My name is *Pierre*, and here is a few things about me:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redux](https://img.shields.io/badge/-Redux-000%3F%26logo%3DRedux?style=flat&logo=Redux&logoColor=%23764ABC&color=black)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-000%3F%26logo%3Dpostgresql?style=flat&logo=%234169E1&color=black)
+![MongoDB](https://img.shields.io/badge/-mongodb-000%3F%26logo%3Dmongodb?style=flat&logo=mongodb&logoColor=mongodb&color=black)
 
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
