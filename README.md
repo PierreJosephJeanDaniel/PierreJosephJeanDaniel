@@ -6,7 +6,7 @@ My name is *Pierre*, and here is a few things about me:
 
 🧗 - I am into climbing, painting and cooking... oh and programming too!
 
-🌱 - My programming goals are to grow my knowledge of `.NET` and keep divng into `TypeScript`
+🌱 - My programming goals are to grow my knowledge of `.NET` and keep diving into `TypeScript`
 
 🌙 - I would love to eventually create my own video game.
 
