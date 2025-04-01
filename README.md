@@ -1,6 +1,6 @@
 # 🐛 Hello there! 🐛
 
-My name is *Pierre*, and here is a few things about me:
+My name is **Pierre**, and here is a few things about me:
 
 🏢 - I am currently working at [Lucid Analytics](https://www.lucid-analytics.ai/).
 
